@@ -1,3 +1,7 @@
+**(6/24/2020) Group Buy Organizer being rewritten in new repository!**  What started as a project to learn about web frameworks is now being completely rewritten in Django, with plenty of more features and capabilities.  Once completed, it will be its own site online that anyone can use (domain TBA).  I expect to have it done sometime before the 2021 fireworks buying season.  Click the link below to follow along with my progress:
+
+**[https://github.com/MarkMichon1/groupbuyorganizer2](https://github.com/MarkMichon1/groupbuyorganizer2)**
+
 ### Organize Group Buys Faster
 
 **Group Buy Organizer** is a web application that helps manage wholesale group buys.  Remove a lot of the overhead
