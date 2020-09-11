@@ -1,3 +1,5 @@
+**Sept 2020 UPDATE:  A few version of this is now being worked on!**  After the [first](https://github.com/MarkMichon1/Group-Buy-Organizer) and [second](https://github.com/MarkMichon1/Group-Buy-Organizer-2) version, I've now begun on v3, in which the group buy software will be part of a larger single page application, PyroSource.  More news will be released as the project progresses.  :)
+
 **(6/24/2020) Group Buy Organizer being rewritten in new repository!**  What started as a project to learn about web frameworks is now being completely rewritten in Django, with plenty of more features and capabilities.  Once completed, it will be its own site online that anyone can use (domain TBA).  I expect to have it done sometime before the 2021 fireworks buying season.  Click the link below to follow along with my progress:
 
 **[https://github.com/MarkMichon1/groupbuyorganizer2](https://github.com/MarkMichon1/groupbuyorganizer2)**
